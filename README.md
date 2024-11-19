@@ -1,6 +1,3 @@
-# project1
-This is my first project.
-I am a beginner who is trying to learn github from today.
-The date is November 15, 2024.
+# Motivational Quotes by Famous People
 
-Author - Aakash Bhatta
+The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
